@@ -86,3 +86,8 @@ body,
 :root {
   height: 100%;
 }
+
+svg {
+  height: 20px !important;
+  width: 20px !important;
+}
